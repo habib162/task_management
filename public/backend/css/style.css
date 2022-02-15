@@ -1,0 +1,28 @@
+body {
+    padding: 30px;
+  }
+  #leftSide {
+    background-color: #dbe3ff;
+    height: 600px;
+  }
+  #mainContent {
+    background-color: #fff5d4;
+    height: 600px;
+    padding-top: 20px;
+  }
+  .rsButtons {
+    padding-top: 30px;
+  }
+  /* custom style for  validation method required. See ditails and classes name in developers tool */
+  .error {
+    color: red;
+    font-size: 0.8em;
+  }
+  #submit{
+margin-left: 100px;
+
+  }
+
+
+  #modal{
+margin-left: 928px;  }
